@@ -4,4 +4,4 @@ A program made in Jupyter Notebook to auto check the best model to predict a log
 
 ## License
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations (GNU).
+See the [LICENSE](LICENSE) file for license rights and limitations (GNU).
